@@ -31,10 +31,6 @@ Display the original, lower contrast, and higher contrast images.
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-## Program Developed By:
-- **Name:** E HEMACHANDRAN
-- **Register Number:** 212224230093
-
   ### Ex. No. 01
 
 ### **Step 1: Read and Display Image**
