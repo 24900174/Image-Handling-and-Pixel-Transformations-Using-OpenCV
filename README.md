@@ -1,5 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## NAME: PRABANJAN R
+## REG.NO: 212224230198
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
